@@ -1,5 +1,5 @@
 {
-    "name": "ircmaxell/php-object-symbolresolver",
+    "name": "ircmaxell/php-elf-symbolresolver",
     "description": "An object file (ELF, Mach-O) parser",
     "license": "MIT",
     "authors": [
